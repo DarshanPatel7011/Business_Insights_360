@@ -37,7 +37,7 @@ The model integrates data from **SQL + Excel**, with over **4.8M+ records**, and
 - Ensured proper **filter propagation** across dimensions for accurate reporting.
 
 📊 *Data Model Preview:*  
-![Data Model](DATA_MODELING.png)  
+![Data Model](https://github.com/DarshanPatel7011/Business_Insights_360/blob/main/1.AtliQ%20Hardware%20Power%20BI%20Data%20Model.png)  
 
 ### 🔹 3. KPI Development (DAX Measures)  
 - Built **Net Sales, Gross Margin (GM), GM%, P&L Statement** using advanced DAX functions.  
@@ -87,17 +87,28 @@ The model integrates data from **SQL + Excel**, with over **4.8M+ records**, and
 
 ---
 
-## Dashboards Preview  
+## Dashboards Preview
 
-### Executive Dashboard  
-![Executive Dashboard](EXECUTIVE_DASHBOARD.png)  
-*Built an executive dashboard to track revenue, profit, forecast accuracy, market share & top customers for strategic decision-making.*  
+### Home Dashboard
+![Home Dashboard](https://github.com/DarshanPatel7011/Business_Insights_360/blob/main/2.Home.PNG)
+
+### Finance Dashboard  
+![Finance Dashboard](https://github.com/DarshanPatel7011/Business_Insights_360/blob/main/3.Finance%20View.PNG)  
 
 ### Sales Dashboard  
-![Sales Dashboard](SALES_DASHBOARD.png)  
-*Designed an interactive sales dashboard to monitor revenue, margins, unit economics & customer-product performance across regions.*  
+![Sales Dashboard](https://github.com/DarshanPatel7011/Business_Insights_360/blob/main/4.Sales%20View.PNG)  
 
-👉 [Try Live Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTFiZjI5ODAtNzNkZi00YTFjLWE3MzctN2Q4YTQyMjY5OGNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true&pageName=55b372ed61093223a835)  
+### Marketing Dashboard  
+![Marketing Dashboard](https://github.com/DarshanPatel7011/Business_Insights_360/blob/main/5.Marketing%20View.PNG)
+
+### Supply Chain Dashboard  
+![Supply Chain Dashboard](https://github.com/DarshanPatel7011/Business_Insights_360/blob/main/6.Supply%20Chain%20View.PNG)
+
+### Executive Dashboard  
+![Executive Dashboard](https://github.com/DarshanPatel7011/Business_Insights_360/blob/main/7.Executive%20View.PNG)
+
+
+👉 [Try Live Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWYxMWMxZTQtNzM4My00MTAxLThlOTctN2VkOGMxM2ZhMzE4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection3e6d270a5b20870d7cd8)  
 
 ---
 
@@ -126,4 +137,4 @@ This project demonstrates how **Power BI can transform raw data into actionable 
 ---
 
 ## Explore More  
-💡 “If you’d like to interact with the live Power BI dashboard or explore my other projects, check out my portfolio 👉 [Portfolio](https://codebasics.io/portfolio/Mohammad-Navaman-Jamadar)
+💡 “If you’d like to interact with the live Power BI dashboard or explore my other projects, check out my portfolio 👉 [Portfolio](https://codebasics.io/portfolio/Darshankumar-Patel)
